@@ -25,6 +25,8 @@
 | mourir            | mujrijr       | Morir        | Se va a __MORIR__ _*Mou*_rihno si seguimos jugando así |
 | sentir            | sentijr       | Sentir       | -- |
 | fait mal          | fet mal       | Doler        | __doler__ que explote un _*FET*_ Field-Effect Transistor |
-		
-		
+
+| Idioma Extranjero <br /> verbes | Pronunciacion <br /> vejrbes | Idioma Natal <br /> Verbos | Asociación |
+|:-----------------:|:-------------:|:------------:|------------|		
+| soigner           | soñejr        | Curar        | __Curar__ el  _*sueño*_  |
 
