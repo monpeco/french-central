@@ -32,3 +32,8 @@
 | voir              | vuajr         | Ver          | __Ver__  a través de la _*Buhardilla*_  |
 | regarder          | jregarjrdejr  | Mirar        | __Mirar__  la _*Regadera*_  |
 
+| Idioma Extranjero <br /> verbes | Pronunciacion <br /> vejrbes | Idioma Natal <br /> Verbos | Asociación |
+|:-----------------:|:-------------:|:------------:|------------|		
+| entendre          | antandjre  | Oir             | --  |
+| écouter           | ecutejr    | Escuchar        | --  |
+
